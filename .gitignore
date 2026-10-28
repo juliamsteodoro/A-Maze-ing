@@ -1,0 +1,6 @@
+.mypy_cache/
+__pycahce__/
+*.pyc
+.venv/
+ dist/
+ build/

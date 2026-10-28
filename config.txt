@@ -1,0 +1,6 @@
+WIDTH=0 #largura
+HEIGHT=0 #altura
+ENTRY=0,0 #coordenadas do ponto de entrada do labirinto no formato x,y
+EXIT=0,0 #ponto de saida?
+OUTPUT_FILE=maze.txt #nome do arquivo de output 
+PERFECT=True #labirinto perfeito (apenas um unico caminho da entrada ate a saida)
