@@ -1,7 +1,7 @@
 .PHONY: install run debug clean lint lint-strict
 
 install:
-	python3 -m pip install flake8 mypy
+	python3 -m pip install -r requirements.txt
 
 run:
 	python3 a_maze_ing.py config.txt
